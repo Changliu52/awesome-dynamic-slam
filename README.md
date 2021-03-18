@@ -80,7 +80,9 @@ Another related paper list is about the semantic segmentation, which can be foun
   - http://campar.in.tum.de/pub/slavcheva2018cvpr/slavcheva2018cvpr.pdf (paper)
 - MixedFusion: Real-Time Reconstruction of an Indoor Scene with Dynamic Objects (TVCG 2017)
   - http://feng-xu.com/papers/MixedFusion-tvcg.pdf (paper)
-
+- DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor (CVPR 2018)
+  - http://www.liuyebin.com/doublefusion/doublefusion_files/doublefusion.pdf
+  - http://www.liuyebin.com/doublefusion/doublefusion_files/DoubleFusion_SupVideo_CameraReady.mp4
 
 ## Background only, i.e. removing dynamic objects
 
